@@ -124,13 +124,14 @@ body {
 
 .my-work-experience-company {
   color: #fb6d3a;
+  margin-bottom: 0;
 }
 .my-work-experience-position {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  margin: 0 0 10px 0;
+  margin: 0 0 0px 0;
 }
 
 .my-work-experience-period {
@@ -139,7 +140,7 @@ body {
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
-  margin: 0 0 10px 0;
+  margin: 0 0 0px 0;
 }
 
 h5{
@@ -247,6 +248,19 @@ h5{
 }
 
 
+
+.sir__madam__tel {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #fb6d3a;
+  margin-left: 5px;
+}
+
+
 .des{
   width: 500px;
   font-style: normal;
@@ -262,4 +276,10 @@ h5{
 
 .foto-m {
   margin-top: 170px;
+}
+
+.link{
+  color: #fb6d3a;
+  font-style: normal;
+  text-decoration: none;
 }
